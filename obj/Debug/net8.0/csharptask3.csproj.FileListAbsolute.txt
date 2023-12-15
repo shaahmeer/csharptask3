@@ -1,0 +1,14 @@
+/Users/shahmeer/Desktop/csharptask3/bin/Debug/net8.0/csharptask3
+/Users/shahmeer/Desktop/csharptask3/bin/Debug/net8.0/csharptask3.deps.json
+/Users/shahmeer/Desktop/csharptask3/bin/Debug/net8.0/csharptask3.runtimeconfig.json
+/Users/shahmeer/Desktop/csharptask3/bin/Debug/net8.0/csharptask3.dll
+/Users/shahmeer/Desktop/csharptask3/bin/Debug/net8.0/csharptask3.pdb
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/csharptask3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/csharptask3.AssemblyInfoInputs.cache
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/csharptask3.AssemblyInfo.cs
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/csharptask3.csproj.CoreCompileInputs.cache
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/csharptask3.dll
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/refint/csharptask3.dll
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/csharptask3.pdb
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/csharptask3.genruntimeconfig.cache
+/Users/shahmeer/Desktop/csharptask3/obj/Debug/net8.0/ref/csharptask3.dll
